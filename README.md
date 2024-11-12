@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/webwalacoder/fem-social-links-profile-challenge/)
+- Live Site URL: [Live Preview](https://webwalacoder.github.io/fem-social-links-profile-challenge/)
 
 ## My process
 
